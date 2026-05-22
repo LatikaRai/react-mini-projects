@@ -1,0 +1,31 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 4vh 6vw;
+}
+
+h1{
+  font-size: 5vw;
+}
+ 
+button{
+  font-size: 2vw;
+  padding: 1vw 3vw;
+  margin-right: 3vw;
+  background-color: #3f3f3f;
+  border: none;
+  border-radius: 0.5vw;
+  color: white;
+  font-weight: 600;
+  margin-top: 2vw;
+}
+
+input{
+  background-color: #3f3f3f;
+  border: none;
+  font-size: 2vw;
+  padding: 1vw;
+  border-radius: 0.5vw;
+  color: white;
+}
